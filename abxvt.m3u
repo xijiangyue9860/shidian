@@ -5,48 +5,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 ,凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-央视高码,#genre#
-#EXTINF:-1 ,CCTV1综合
-http://112.65.122.221:35455/gaoma/cctv1.m3u8
-#EXTINF:-1 ,CCTV2财经
-http://112.65.122.221:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 ,CCTV3综艺
-http://112.65.122.221:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 ,CCTV4中文国际
-,http://112.65.122.221:35455/gaoma/cctv4.m3u8
-#EXTINF:-1 ,CCTV5体育
-http://112.65.122.221:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 ,CCTV5+体育赛事
-http://112.65.122.221:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 ,CCTV6电影
-http://112.65.122.221:35455/gaoma/cctv6.m3u8
-#EXTINF:-1 ,CCTV7国防军事
-http://112.65.122.221:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 ,CCTV8电视剧
-http://112.65.122.221:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 ,CCTV9纪录
-,http://112.65.122.221:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 ,CCTV10科教
-http://112.65.122.221:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 ,CCTV11戏曲
-http://112.65.122.221:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 ,CCTV12社会与法
-http://112.65.122.221:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 ,CCTV13新闻
-http://112.65.122.221:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 ,CCTV14少儿
-http://112.65.122.221:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 ,CCTV15音乐
-http://112.65.122.221:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 ,CCTV-16奥林匹克
-http://112.65.122.221:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 ,CCTV-17农业农村
-http://112.65.122.221:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 ,CCTV-4k高码
-http://112.65.122.221:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1 ,CCTV-8k高码
-http://112.65.122.221:35455/gaoma/cctv8k_36m.m3u8
-
 4 K, #genre#
 #EXTINF:-1 ,LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
