@@ -1,11 +1,9 @@
 #EXTM3U
-双鸟,#genre#
 #EXTINF:-1 ,凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 ,凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-4 K, #genre#
 #EXTINF:-1 ,LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 ,Loupe
@@ -13,7 +11,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 ,Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-A K, #genre#
 #EXTINF:-1,28 AI 智慧賽馬
 http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1,Channel 5 HD
@@ -56,9 +53,9 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1,翡翠综合台(北美)
 http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1,鳳凰中文a
+#EXTINF:-1,鳳凰中文
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,鳳凰資訊a
+#EXTINF:-1,鳳凰資訊
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1,鳳凰香港
 http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
@@ -82,8 +79,6 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1,NHK World-Japan
 http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1,NHK東京総合
-http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1,Nick Jr
 http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1,Nickelodeon
@@ -102,6 +97,8 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1,無線衛星新聞台
 http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,Celestial Classic Movies
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
 #EXTINF:-1,Celestial Movies
 http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1,CINEMAWORLD
@@ -144,8 +141,6 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1,龍華日韓台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1,龍華經典台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1,龍華電影台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1,beIN SPORTS XTRA
@@ -156,6 +151,8 @@ http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 #EXTINF:-1,緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1,Asian Action
+http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
 #EXTINF:-1,Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,Astro IQIYI
@@ -164,16 +161,22 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1,Astro 欢喜台
 http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1,YES network
-http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
-#EXTINF:-1,MTV LIVE US
-http://aktv-stream.m16tv.cfd/stream/tuntun/mtvliveus/AKTV.m3u8
 #EXTINF:-1,Red Bull Sports
 http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+#EXTINF:-1,YES network
+http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK
+http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+#EXTINF:-1,ESPN
+http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+#EXTINF:-1,ESPN NEWS
+http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 #EXTINF:-1,Tennis Channel 2 US
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
 #EXTINF:-1,Tennis Channel US
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+#EXTINF:-1,US MTV LIVE
+http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1,viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
@@ -313,7 +316,6 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 
-央视频道,#genre#
 #EXTINF:-1,CCTV1
 http://60.208.16.28:35455/gaoma/cctv1.m3u8
 http://lt.hxtre.com:35455/gaoma/cctv1.m3u8
