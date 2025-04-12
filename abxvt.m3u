@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 ,凤凰卫视中文台1
+http://108.181.20.197/livehttpplay?channel_id=30014
 #EXTINF:-1 ,凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 ,凤凰卫视资讯台1
+http://108.181.20.197/livehttpplay?channel_id=30015
 
 #EXTINF:-1 ,LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -315,3 +319,24 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+
+#EXTINF:-1 ,HBO 1
+http://108.181.20.197/livehttpplay?channel_id=20093
+#EXTINF:-1 ,HBO 2
+http://108.181.20.197/livehttpplay?channel_id=20314
+#EXTINF:-1 ,HBO Family
+http://108.181.20.197/livehttpplay?channel_id=20092
+#EXTINF:-1 ,HBO Hits
+http://108.181.20.197/livehttpplay?channel_id=20091
+#EXTINF:-1 ,东森电影
+http://108.181.20.197/livehttpplay?channel_id=20077
+#EXTINF:-1 ,东森洋片
+http://108.181.20.197/livehttpplay?channel_id=20080
+#EXTINF:-1 ,好莱坞电影
+http://108.181.20.197/livehttpplay?channel_id=20062
+#EXTINF:-1 ,Cinema
+http://108.181.21.27:27347/livehttpplay?channel_id=20047
+#EXTINF:-1 ,Discovery
+http://108.181.20.197/livehttpplay?channel_id=20113
+#EXTINF:-1 ,探索
+http://108.181.20.197/livehttpplay?channel_id=20110
