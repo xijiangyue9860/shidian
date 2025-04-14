@@ -1,12 +1,16 @@
 #EXTM3U
-#EXTINF:-1 ,凤凰卫视中文台
+#EXTINF:-1 group-title="凤凰",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 ,凤凰卫视中文台1
+#EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
 http://108.181.20.197/livehttpplay?channel_id=30014
-#EXTINF:-1 ,凤凰卫视资讯台
+#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 ,凤凰卫视资讯台1
+#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
 http://108.181.20.197/livehttpplay?channel_id=30015
+#EXTINF:-1 group-title="凤凰",凤凰卫视电影台
+http://iptv.huuc.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 group-title="凤凰",卫视体育台
+http://iptv.huuc.edu.cn/hls/starsports.m3u8
 
 #EXTINF:-1 ,LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -194,6 +198,8 @@ http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
@@ -212,6 +218,14 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CHC.png" group-title="央视频道",CHC家庭影院
+http://iptv.huuc.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CHCA.png" group-title="央视频道",CHC动作电影
+http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CHCA.png" group-title="央视频道",星空卫视
+http://iptv.huuc.edu.cn/hls/startv.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CHCA.png" group-title="央视频道",CHANNELV
+http://iptv.huuc.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
