@@ -165,6 +165,8 @@ http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",緯來體育
 http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",緯來日本
+http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 group-title="AKTV",Asian Action
 http://aktv_stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Astro Football
