@@ -2,13 +2,19 @@
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
-http://108.181.20.197/livehttpplay?channel_id=30014
+https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv
+#EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
+https://stream1.freetv.fun/fb591f27a9189997883e9a198b9d8b10a8895c9d64f0fc21b3dcd7513fca2805.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
-http://108.181.20.197/livehttpplay?channel_id=30015
+https://stream1.freetv.fun/4364ec78095c3ad80344669707b8a1cfb62aee92444dace158b2e4dc924241d7.m3u8
+#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
+https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.ctv
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 http://iptv.huuc.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 group-title="凤凰",凤凰卫视电影台1
+https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.m3u8
 #EXTINF:-1 group-title="凤凰",卫视体育台
 http://iptv.huuc.edu.cn/hls/starsports.m3u8
 
