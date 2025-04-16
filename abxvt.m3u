@@ -354,24 +354,23 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 
 #EXTINF:-1 group-title="电影",HBO 1
-http://108.181.20.197/livehttpplay?channel_id=20093
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 #EXTINF:-1 group-title="电影",HBO 2
-http://108.181.20.197/livehttpplay?channel_id=20314
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 group-title="电影",HBO Family
-http://108.181.20.197/livehttpplay?channel_id=20092
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1 group-title="电影",HBO Hits
-http://108.181.20.197/livehttpplay?channel_id=20091
+http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 #EXTINF:-1 group-title="电影",东森电影
-http://108.181.20.197/livehttpplay?channel_id=20077
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 group-title="电影",东森洋片
-http://108.181.20.197/livehttpplay?channel_id=20080
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 group-title="电影",好莱坞电影
 http://108.181.20.197/livehttpplay?channel_id=20062
 #EXTINF:-1 group-title="电影",Cinema
 http://108.181.21.27:27347/livehttpplay?channel_id=20047
-#EXTINF:-1 group-title="电影",Discovery
-http://108.181.20.197/livehttpplay?channel_id=20113
 #EXTINF:-1 group-title="电影",探索
-http://108.181.20.197/livehttpplay?channel_id=20110
+#EXTINF:-1group-title="电影",DISCOVERY
+http://198.16.100.186:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 #EXTINF:-1 group-title="电影",龙华洋片
 http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
