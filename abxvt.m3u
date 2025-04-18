@@ -28,6 +28,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 group-title="4K",纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 #EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
 http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
