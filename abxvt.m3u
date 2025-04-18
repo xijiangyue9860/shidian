@@ -378,3 +378,5 @@ http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C394447223944472
 http://60.172.130.146:352/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影",华数喜剧
 http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影",经典电影
+http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
