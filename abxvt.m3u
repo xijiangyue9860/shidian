@@ -28,34 +28,34 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 group-title="4K",纪实科教8K
+
 
 #EXTINF:-1 group-title="AKTV",Channel 5 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Channel 8 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Channel U HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",myTV SUPER 18台
-http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",PopC
 http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",ROCK Action
 http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",tvN
 http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",中天新聞台
 http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",千禧經典台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",娛樂新聞台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",寰宇新聞台
-http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",明珠台
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",無線新聞台
@@ -63,13 +63,13 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",美亞電影台(HK)
 http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",翡翠台
 http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台 4K
-http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",鳳凰中文
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",鳳凰資訊
@@ -77,129 +77,129 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",鳳凰香港
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",黃金翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",AXN
 http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Love Nature HD
-http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",无线新闻台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",東森新聞
-http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",TVBS新聞
-http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Animax(HK)
 http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",DW
-http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",France 24
-http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",KIX
-http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",NHK World-Japan
-http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Nick Jr
-http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Nickelodeon
-http://aktv_stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Thrill
-http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Xite Hits
-http://aktv_stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Xite Rock
-http://aktv_stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",ZooMoo
-http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",亞洲新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",東方衛視國際頻道
-http://aktv_stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線衛星新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+
+#EXTINF:-1 group-title="AKTV",無線新聞台
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Celestial Classic Movies
-http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Celestial Movies
-http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",CINEMAWORLD
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",FIGHT SPORTS
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Mediacorp Entertainment Chinese
-http://aktv_stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",NBA TV
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Sukan
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",TV9
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",TVB Jade
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",TVB Xing He
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Unifi Sport
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",曼聯電視頻道
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",朝鮮恩情台
-http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",ELTV生活英語台
-http://aktv_stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",三立新聞iNEWS
-http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",中視
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",中視新聞
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",台視
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",台視新聞
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",華視
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",龍華偶像台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",龍華日韓台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",龍華電影台
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",beIN SPORTS XTRA
-http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",PAC12
-http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Tennis Channel DE
-http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",緯來體育
 http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",緯來日本
 http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 group-title="AKTV",Asian Action
-http://aktv_stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Astro Football
-http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Astro IQIYI
-http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Astro QJ
-http://aktv_stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Astro 欢喜台
-http://aktv_stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Red Bull Sports
-http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",YES network
-http://aktv_stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",CBS SPORTS NETWORK
-http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",ESPN
-http://aktv_stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",ESPN NEWS
-http://aktv_stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Tennis Channel 2 US
-http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Tennis Channel US
-http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",US MTV LIVE
-http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",viuTV
-http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
