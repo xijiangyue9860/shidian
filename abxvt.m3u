@@ -28,7 +28,10 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-
+#EXTINF:-1 group-title="4K",北京卫视4k
+http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+#EXTINF:-1 group-title="4K",bbcearth
+http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8998ac4daa157eb2ea8f9229d4411dff
 
 #EXTINF:-1 group-title="AKTV",Channel 5 HD
 
@@ -48,6 +51,12 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",中天新聞台
 http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",中天亚洲台
+http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 group-title="AKTV",中天娱乐台
+http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 group-title="AKTV",中天综合台
+http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 #EXTINF:-1 group-title="AKTV",千禧經典台(HK)
 
 #EXTINF:-1 group-title="AKTV",娛樂新聞台(HK)
@@ -80,6 +89,8 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
 
 #EXTINF:-1 group-title="AKTV",AXN
 http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+
 #EXTINF:-1 group-title="AKTV",Love Nature HD
 
 #EXTINF:-1 group-title="AKTV",无线新闻台(北美)
@@ -147,13 +158,13 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",三立新聞iNEWS
 http://108.181.20.197/livehttpplay?channel_id=10126
 #EXTINF:-1 group-title="AKTV",中視
-
+http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 #EXTINF:-1 group-title="AKTV",中視新聞
-
+http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 #EXTINF:-1 group-title="AKTV",台視
-
+http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 #EXTINF:-1 group-title="AKTV",台視新聞
-
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 #EXTINF:-1 group-title="AKTV",華視
 
 #EXTINF:-1 group-title="AKTV",龍華偶像台
@@ -204,14 +215,18 @@ http://108.181.20.197/livehttpplay?channel_id=20199
 #EXTINF:-1 group-title="AKTV",US MTV LIVE
 
 #EXTINF:-1 group-title="AKTV",viuTV
-
+http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=caad8789b260e0d7f41989d626822569
 #EXTINF:-1 group-title="AKTV",CBN NEWS
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="AKTV",BBC NEWS
+http://198.16.100.186:8278/bbcnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bd2772a88f50da7682a7c1ef77373a87
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 http://60.214.104.110:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$订阅源
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 http://itv.iptv1688.top:2016/itv.php?id=CCTV2
@@ -279,6 +294,7 @@ http://iptv.huuc.edu.cn/hls/channelv.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="卫视频道",北京文艺
 http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.cn/tv/北京体育.png" group-title="卫视频道",北京体育
