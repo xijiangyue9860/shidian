@@ -205,7 +205,8 @@ http://108.181.20.197/livehttpplay?channel_id=20199
 
 #EXTINF:-1 group-title="AKTV",viuTV
 
-
+#EXTINF:-1 group-title="AKTV",CBN NEWS
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 http://itv.iptv1688.top:2016/itv.php?id=CCTV1
