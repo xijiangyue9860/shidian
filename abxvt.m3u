@@ -145,7 +145,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",ELTV生活英語台
 
 #EXTINF:-1 group-title="AKTV",三立新聞iNEWS
-
+http://108.181.20.197/livehttpplay?channel_id=10126
 #EXTINF:-1 group-title="AKTV",中視
 
 #EXTINF:-1 group-title="AKTV",中視新聞
@@ -170,6 +170,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 
 #EXTINF:-1 group-title="AKTV",緯來體育
 http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+http://108.181.20.197/livehttpplay?channel_id=20120
 #EXTINF:-1 group-title="AKTV",緯來日本
 http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 group-title="AKTV",緯來育乐
@@ -401,6 +402,7 @@ http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 group-title="电影",东森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+http://108.181.20.197/livehttpplay?channel_id=20080
 #EXTINF:-1 group-title="电影",好莱坞电影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1 group-title="电影",Cinema
@@ -418,3 +420,5 @@ http://60.172.130.146:352/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影",经典电影
 http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="电影",天映经典
+http://108.181.20.197/livehttpplay?channel_id=20063
