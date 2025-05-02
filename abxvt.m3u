@@ -139,13 +139,13 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Celestial Movies
 
 #EXTINF:-1 group-title="AKTV",CINEMAWORLD
-
+https://v18.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AKTV",FIGHT SPORTS
 
 #EXTINF:-1 group-title="AKTV",Mediacorp Entertainment Chinese
 
 #EXTINF:-1 group-title="AKTV",NBA TV
-
+https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AKTV",Sukan
 
 #EXTINF:-1 group-title="AKTV",TV9
@@ -220,7 +220,7 @@ http://108.181.20.197/livehttpplay?channel_id=20199
 #EXTINF:-1 group-title="AKTV",CBS SPORTS NETWORK
 
 #EXTINF:-1 group-title="AKTV",ESPN
-
+https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AKTV",ESPN NEWS
 
 #EXTINF:-1 group-title="AKTV",Tennis Channel 2 US
