@@ -91,6 +91,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
 
 #EXTINF:-1 group-title="AKTV",AXN
 http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",AXN+
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 
 #EXTINF:-1 group-title="AKTV",Love Nature HD
@@ -436,6 +437,7 @@ http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19
 http://108.181.20.197/livehttpplay?channel_id=20080
 #EXTINF:-1 group-title="电影",好莱坞电影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 group-title="电影",好莱坞电影+
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
 #EXTINF:-1 group-title="电影",Cinema
 http://108.181.21.27:27347/livehttpplay?channel_id=20047
