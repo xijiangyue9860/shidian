@@ -84,7 +84,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台
 http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台 4K
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
 
 #EXTINF:-1 group-title="AKTV",鳳凰中文
