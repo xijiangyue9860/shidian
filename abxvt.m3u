@@ -44,9 +44,9 @@ http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&c
 #EXTINF:-1 group-title="AKTV",myTV SUPER 18台
 
 #EXTINF:-1 group-title="AKTV",PopC
-http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",TVB Plus
 
 #EXTINF:-1 group-title="AKTV",tvN
@@ -56,7 +56,7 @@ http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&t
 #EXTINF:-1 group-title="AKTV",Tvnmovie
 http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 #EXTINF:-1 group-title="AKTV",中天新聞台
-http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",中天亚洲台
 http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 group-title="AKTV",中天娱乐台
@@ -74,29 +74,29 @@ http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de
 #EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
 
 #EXTINF:-1 group-title="AKTV",明珠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",無線新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",美亞電影台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
 
 #EXTINF:-1 group-title="AKTV",翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
 
 #EXTINF:-1 group-title="AKTV",鳳凰中文
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",鳳凰資訊
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",鳳凰香港
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",黃金翡翠台
 
 #EXTINF:-1 group-title="AKTV",AXN
-http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",AXN+
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 
@@ -114,7 +114,7 @@ http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19
 http://108.181.20.197/livehttpplay?channel_id=20136
 
 #EXTINF:-1 group-title="AKTV",Animax(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",DW
 
 #EXTINF:-1 group-title="AKTV",France 24
@@ -140,7 +140,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",東方衛視國際頻道
 
 #EXTINF:-1 group-title="AKTV",無線新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",Celestial Classic Movies
 
 #EXTINF:-1 group-title="AKTV",Celestial Movies
@@ -201,7 +201,7 @@ http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&c
 #EXTINF:-1 group-title="AKTV",Tennis Channel DE
 
 #EXTINF:-1 group-title="AKTV",緯來體育
-http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+
 #EXTINF:-1 group-title="AKTV",緯來體育1
 http://108.181.20.197/livehttpplay?channel_id=20120
 #EXTINF:-1 group-title="AKTV",緯來日本
