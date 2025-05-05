@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
-https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv
+https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
-https://stream1.freetv.fun/fb591f27a9189997883e9a198b9d8b10a8895c9d64f0fc21b3dcd7513fca2805.m3u8
+http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
-https://stream1.freetv.fun/4364ec78095c3ad80344669707b8a1cfb62aee92444dace158b2e4dc924241d7.m3u8
+http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=eebd39d54d44acac9b9e72161dd32374
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
-https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.ctv
+https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台1
