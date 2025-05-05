@@ -30,6 +30,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
 http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
+http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.22:5540
 #EXTINF:-1 group-title="4K",bbcearth
 http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8998ac4daa157eb2ea8f9229d4411dff
 
@@ -287,11 +289,11 @@ http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV15
-
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16
-
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
-
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
 http://iptv.huuc.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院1" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院1
@@ -458,3 +460,5 @@ http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=
 http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 group-title="电影",天映经典
 http://108.181.20.197/livehttpplay?channel_id=20063
+#EXTINF:-1 group-title="电影",1905
+http://xxwx.yoesun.com/1905dy.php?id=1905
