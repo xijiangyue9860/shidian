@@ -12,11 +12,11 @@ http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=MF7F5665582956655829
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
 https://cdn.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
-http://iptv.huuc.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 group-title="凤凰",凤凰卫视电影台1
+
+#EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.m3u8
 #EXTINF:-1 group-title="凤凰",卫视体育台
-http://iptv.huuc.edu.cn/hls/starsports.m3u8
+
 
 #EXTINF:-1 group-title="4K",LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -176,12 +176,12 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="AKTV",ELTV生活英語台
 
 #EXTINF:-1 group-title="AKTV",ELTA体育1
-http://108.181.20.197/livehttpplay?channel_id=20043
+
 #EXTINF:-1 group-title="AKTV",ELTA体育2
-http://108.181.20.197/livehttpplay?channel_id=20107
+
 
 #EXTINF:-1 group-title="AKTV",三立新聞iNEWS
-http://108.181.20.197/livehttpplay?channel_id=10126
+
 #EXTINF:-1 group-title="AKTV",中視
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 #EXTINF:-1 group-title="AKTV",中視新聞
@@ -195,7 +195,7 @@ http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=1
 #EXTINF:-1 group-title="AKTV",龍華偶像台
 http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 #EXTINF:-1 group-title="AKTV",龍華日韓台
-http://108.181.20.197/livehttpplay?channel_id=20081
+
 #EXTINF:-1 group-title="AKTV",龍華電影台
 http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53153e05f428f28b65eb5559ae5b9dc0
 #EXTINF:-1 group-title="AKTV",龍華戏剧台
@@ -209,13 +209,13 @@ http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&c
 #EXTINF:-1 group-title="AKTV",緯來體育
 
 #EXTINF:-1 group-title="AKTV",緯來體育1
-http://108.181.20.197/livehttpplay?channel_id=20120
+
 #EXTINF:-1 group-title="AKTV",緯來日本
 http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 group-title="AKTV",緯來育乐
 rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 #EXTINF:-1 group-title="AKTV",緯來电影
-http://108.181.20.197/livehttpplay?channel_id=20199
+
 #EXTINF:-1 group-title="AKTV",Asian Action
 http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="AKTV",Astro Football
