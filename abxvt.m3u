@@ -76,19 +76,19 @@ http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de
 #EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
 
 #EXTINF:-1 group-title="AKTV",明珠台
-
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="AKTV",無線新聞台
-
+http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 group-title="AKTV",美亞電影台(HK)
-
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
-
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="AKTV",翡翠台
-
+http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="AKTV",翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
-
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="AKTV",鳳凰中文
 
 #EXTINF:-1 group-title="AKTV",鳳凰資訊
@@ -96,7 +96,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="AKTV",鳳凰香港
 
 #EXTINF:-1 group-title="AKTV",黃金翡翠台
-
+http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="AKTV",AXN
 
 #EXTINF:-1 group-title="AKTV",AXN+
@@ -217,15 +217,15 @@ rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 #EXTINF:-1 group-title="AKTV",緯來电影
 http://108.181.20.197/livehttpplay?channel_id=20199
 #EXTINF:-1 group-title="AKTV",Asian Action
-
+http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="AKTV",Astro Football
-
+http://php.jdshipin.com/smt.php?id=Aodhd
 #EXTINF:-1 group-title="AKTV",Astro IQIYI
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 group-title="AKTV",Astro QJ
-
+http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="AKTV",Astro 欢喜台
-
+http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="AKTV",Red Bull Sports
 
 #EXTINF:-1 group-title="AKTV",YES network
@@ -252,6 +252,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 http://198.16.100.186:8278/bbcnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bd2772a88f50da7682a7c1ef77373a87
 #EXTINF:-1 group-title="AKTV",CBS NEWS
 http://198.16.100.186:8278/cbshd_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3105019e9c32ae1284e0cc01a97f6b3e
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://8.210.115.179:35455/bptv/10000100000000050000000003864351.m3u8
