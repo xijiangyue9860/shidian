@@ -11,8 +11,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=eebd39d54d44acac9b9e72161dd32374
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo hd
-#EXTINF:-1 group-title="凤凰",凤凰卫视电影台
-
+#EXTINF:-1 group-title="凤凰",凤凰卫视香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.m3u8
 #EXTINF:-1 group-title="凤凰",卫视体育台
