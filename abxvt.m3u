@@ -261,42 +261,43 @@ http://39.137.75.234:80/000000001000/1000000005000265001/1.m3u8?livemode=1&stbId
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870745.m3u8
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870746.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://39.137.75.234:80/000000001000/1000000005000265004/1.m3u8?livemode=1&stbId=no&channel-id=ystenlive&Contentid=1000000005000265004
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870748.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://39.137.75.234:80/000000001000/reallive-cctv5plus/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=reallive-cctv5plus
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870749.m3u8
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
 http://39.137.75.234:80/000000001000/1000000005000265007/1.m3u8?channel-id=ystenlive\u0026Contentid=1000000005000265007\u0026livemode=1\u0026stbId=no
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870838.m3u8
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9
 http://39.137.75.234:80/000000001000/1000000005000265009/1.m3u8?channel-id=ystenlive\u0026Contentid=1000000005000265009\u0026livemode=1\u0026stbId=no
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870753.m3u8
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870754.m3u8
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12
 http://39.137.75.234:80/000000001000/1000000005000265012/1.m3u8?channel-id=ystenlive\u0026Contentid=1000000005000265012\u0026livemode=1\u0026stbId=no
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004796248.m3u8
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://39.137.75.234:80/000000001000/1000000001000021349/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000001000021349
@@ -305,7 +306,7 @@ http://39.137.75.234:80/000000001000/1000000001000021349/1.m3u8?livemode=1\u0026
 http://39.137.75.234:80/000000001000/1000000005000265014/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000005000265014
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16
-
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004972559.m3u8
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://39.137.75.234:80/000000001000/1000000005000056836/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000005000056836
