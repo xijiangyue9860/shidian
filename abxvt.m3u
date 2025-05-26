@@ -5,6 +5,8 @@ http://1.95.83.42:9908/fhx.php?id=fhzw
 http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
 http://live4play.uk/livehttpplay?channel_id=30014
+#EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
+http://live4play.uk/livehttpplay?channel_id=20065
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
