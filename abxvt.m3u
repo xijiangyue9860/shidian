@@ -296,7 +296,7 @@ http://39.137.75.234:80/000000001000/1000000005000265007/1.m3u8?channel-id=ysten
 http://jackgao.top:35455/bptv/10000100000000050000000003870750.m3u8
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
-http://jackgao.top:35455/bptv/10000100000000050000000003870838.m3u8
+http://119.8.184.75:35455/bptv/10000100000000050000000003870838.m3u8
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9
 http://39.137.75.234:80/000000001000/1000000005000265009/1.m3u8?channel-id=ystenlive\u0026Contentid=1000000005000265009\u0026livemode=1\u0026stbId=no
