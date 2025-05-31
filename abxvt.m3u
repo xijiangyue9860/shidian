@@ -36,8 +36,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
 http://live.nctv.top/DYjsklis/bjtv.php?id=bj4k
-#EXTINF:-1 group-title="4K",北京iptv 4k
-http://cici2012.synology.me:35455/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 group-title="4K",cctv 4k
+https://nptv.freetv.top/nptv/cctv4k.m3u8
 #EXTINF:-1 group-title="4K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
@@ -336,15 +336,18 @@ http://39.137.75.234:80/000000001000/1000000005000056836/1.m3u8?livemode=1\u0026
 https://www.freetv.top/migu/673168256.m3u8?migutoken=6601b6da2d928bca7f0b4b90868569f4bb6e0130bc42367a0a54f8ddba638b0f72aa21e85471c9382c02128e3b7c9f7c07638bf6b927c1d0e2d2f0412b60e6ac6f2a2ac223b1b51afa7fd7642c
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-http://iptv.huuc.edu.cn/hls/chctv.m3u8
+https://www.freetv.top/migu/644368373.m3u8?migutoken=571dc311fc83511dc0126e97e983b04794a2b02b54eb64ac4f436dbd075eba6b27b583ca4584624bac092e818ed33365ff0f3394a100fe2ddd90d6dbf65231cef435c6d012ea2b30623f9eed5a
 #EXTINF:-1 tvg-name="CHC家庭影院1" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院1
 http://eastscreen.tv/ooooo.php?id=chcjt
 #EXTINF:-1 tvg-name="CHC家庭影院2" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院2
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+https://www.freetv.top/migu/644368714.m3u8?migutoken=781a047a25b03b3efb5eadb27e905cd7fb866fbe4821ac3ec3ac0cc7e6c16cfca86ff567f212d6bf4263987e8de24a6421e5198959f32709d78a00cba967ee12e0819791072a0d30f531787a23
 #EXTINF:-1 tvg-name="CHC动作电影1" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影1
 http://eastscreen.tv/ooooo.php?id=chcdz
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="影视", CHC影迷电影
+https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
+
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="央视频道",星空卫视
 http://iptv.huuc.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.cn/tv/Channelv.png" group-title="央视频道",CHANNELV
