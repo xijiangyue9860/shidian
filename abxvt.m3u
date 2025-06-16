@@ -1,26 +1,28 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台
-http://1.95.83.42:9908/fhx.php?id=fhzw
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
 http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://1.95.83.42:9908/fhx.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-http://live4play.uk/livehttpplay?channel_id=20065
+http://bx.757888.xyz/api.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
-http://1.95.83.42:9908/fhx.php?id=fhzx
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+http://bx.757888.xyz/api.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
 http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
 http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台4
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+http://1.95.83.42:9908/fhx.php?id=fhzx
+#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台5
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+http://bx.757888.xyz/api.php?id=fhhk
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
-https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.m3u8
+
 #EXTINF:-1 group-title="凤凰",卫视体育台
 
 
@@ -35,13 +37,13 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
-http://live.nctv.top/DYjsklis/bjtv.php?id=bj4k
+
 #EXTINF:-1 group-title="4K",cctv 4k
-https://nptv.freetv.top/nptv/cctv4k.m3u8
+
 #EXTINF:-1 group-title="4K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.22:5540
+
 #EXTINF:-1 group-title="4K",bbcearth
 http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8998ac4daa157eb2ea8f9229d4411dff
 
@@ -52,7 +54,7 @@ http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&c
 #EXTINF:-1 group-title="AKTV",Channel U HD
 
 #EXTINF:-1 group-title="AKTV",myTV SUPER 18台
-
+http://bx.757888.xyz/api.php?id=18
 #EXTINF:-1 group-title="AKTV",PopC
 
 #EXTINF:-1 group-title="AKTV",ROCK Action
@@ -66,14 +68,14 @@ http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&t
 #EXTINF:-1 group-title="AKTV",Tvnmovie
 http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 #EXTINF:-1 group-title="AKTV",中天新聞台
-http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+http://bx.757888.xyz/api.php?id=ztxw
 #EXTINF:-1 group-title="AKTV",中天亚洲台
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+
 #EXTINF:-1 group-title="AKTV",中天娱乐台
 http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 #EXTINF:-1 group-title="AKTV",中天综合台
 http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-#EXTINF:-1 group-title="AKTV",中天经典台
+#EXTINF:-1 group-title="AKTV",中视经典台
 http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 #EXTINF:-1 group-title="AKTV",千禧經典台(HK)
 
@@ -85,14 +87,18 @@ http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de
 
 #EXTINF:-1 group-title="AKTV",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="AKTV",明珠台1
+http://bx.757888.xyz/api.php?id=mz
 #EXTINF:-1 group-title="AKTV",無線新聞台
-http://php.jdshipin.com/smt.php?id=inews_twn
+http://bx.757888.xyz/api.php?id=wxxw
 #EXTINF:-1 group-title="AKTV",美亞電影台(HK)
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="AKTV",美亞電影台
+http://bx.757888.xyz/api.php?id=meiya
 #EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="AKTV",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
+http://bx.757888.xyz/api.php?id=fct
 #EXTINF:-1 group-title="AKTV",翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
@@ -104,7 +110,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="AKTV",鳳凰香港
 
 #EXTINF:-1 group-title="AKTV",黃金翡翠台
-http://php.jdshipin.com/smt.php?id=Tvbjade
+
 #EXTINF:-1 group-title="AKTV",AXN
 
 #EXTINF:-1 group-title="AKTV",AXN+
@@ -123,7 +129,6 @@ http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&t
 #EXTINF:-1 group-title="AKTV",TVBS HD
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 group-title="AKTV",TVBS精彩
-http://108.181.20.197/livehttpplay?channel_id=20136
 
 #EXTINF:-1 group-title="AKTV",Animax(HK)
 
@@ -158,23 +163,23 @@ http://108.181.20.197/livehttpplay?channel_id=20136
 #EXTINF:-1 group-title="AKTV",Celestial Movies
 
 #EXTINF:-1 group-title="AKTV",CINEMAWORLD
-https://v18.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="AKTV",FIGHT SPORTS
 
 #EXTINF:-1 group-title="AKTV",Mediacorp Entertainment Chinese
 
 #EXTINF:-1 group-title="AKTV",NBA TV
-https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="AKTV",Sukan
 
 #EXTINF:-1 group-title="AKTV",TV9
 
 #EXTINF:-1 group-title="AKTV",TVB Jade
 
-#EXTINF:-1 group-title="AKTV",TVB Xing He
-http://23.175.201.119:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
+#EXTINF:-1 group-title="AKTV",TVB Plus
+http://bx.757888.xyz/api.php?id=tvbp
 #EXTINF:-1 group-title="AKTV",TVB 星河
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+
 #EXTINF:-1 group-title="AKTV",Unifi Sport
 
 #EXTINF:-1 group-title="AKTV",曼聯電視頻道
@@ -193,7 +198,7 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="AKTV",中視
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 #EXTINF:-1 group-title="AKTV",中視新聞
-http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+
 #EXTINF:-1 group-title="AKTV",台視
 http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 #EXTINF:-1 group-title="AKTV",台視新聞
@@ -205,7 +210,7 @@ http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&c
 #EXTINF:-1 group-title="AKTV",龍華日韓台
 
 #EXTINF:-1 group-title="AKTV",龍華電影台
-http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53153e05f428f28b65eb5559ae5b9dc0
+
 #EXTINF:-1 group-title="AKTV",龍華戏剧台
 http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
 #EXTINF:-1 group-title="AKTV",beIN SPORTS XTRA
@@ -225,15 +230,15 @@ rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 #EXTINF:-1 group-title="AKTV",緯來电影
 
 #EXTINF:-1 group-title="AKTV",Asian Action
-http://php.jdshipin.com/smt.php?id=AEC
+
 #EXTINF:-1 group-title="AKTV",Astro Football
-http://php.jdshipin.com/smt.php?id=Aodhd
+
 #EXTINF:-1 group-title="AKTV",Astro IQIYI
-http://php.jdshipin.com/smt.php?id=Qiyi
+
 #EXTINF:-1 group-title="AKTV",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
+
 #EXTINF:-1 group-title="AKTV",Astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
+
 #EXTINF:-1 group-title="AKTV",Red Bull Sports
 
 #EXTINF:-1 group-title="AKTV",YES network
@@ -241,7 +246,7 @@ http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="AKTV",CBS SPORTS NETWORK
 
 #EXTINF:-1 group-title="AKTV",ESPN
-https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="AKTV",ESPN NEWS
 
 #EXTINF:-1 group-title="AKTV",Tennis Channel 2 US
@@ -251,15 +256,15 @@ https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AKTV",US MTV LIVE
 
 #EXTINF:-1 group-title="AKTV",viuTV
-http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=caad8789b260e0d7f41989d626822569
+
 #EXTINF:-1 group-title="AKTV",viuTV+
 http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 #EXTINF:-1 group-title="AKTV",CBN NEWS
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="AKTV",BBC NEWS
-http://198.16.100.186:8278/bbcnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bd2772a88f50da7682a7c1ef77373a87
+
 #EXTINF:-1 group-title="AKTV",CBS NEWS
-http://198.16.100.186:8278/cbshd_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3105019e9c32ae1284e0cc01a97f6b3e
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://39.137.75.234:80/000000001000/1000000005000265001/1.m3u8?livemode=1&stbId=no&channel-id=ystenlive&Contentid=1000000005000265001
