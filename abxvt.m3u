@@ -43,7 +43,7 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
+http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1002
 #EXTINF:-1 group-title="4K",bbcearth
 http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8998ac4daa157eb2ea8f9229d4411dff
 
@@ -139,7 +139,7 @@ http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsu
 #EXTINF:-1 group-title="AKTV",KIX
 
 #EXTINF:-1 group-title="AKTV",NHK World-Japan
-
+http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1027
 #EXTINF:-1 group-title="AKTV",Nick Jr
 
 #EXTINF:-1 group-title="AKTV",Nickelodeon
@@ -194,7 +194,7 @@ http://bx.757888.xyz/api.php?id=tvbp
 
 
 #EXTINF:-1 group-title="AKTV",三立新聞iNEWS
-
+http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1016
 #EXTINF:-1 group-title="AKTV",中視
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 #EXTINF:-1 group-title="AKTV",中視新聞
@@ -225,6 +225,8 @@ http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&c
 
 #EXTINF:-1 group-title="AKTV",緯來日本
 http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 group-title="AKTV",緯來日本1
+http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1026
 #EXTINF:-1 group-title="AKTV",緯來育乐
 rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 #EXTINF:-1 group-title="AKTV",緯來电影
