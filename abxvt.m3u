@@ -289,7 +289,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5++
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5p
 http://39.137.75.234:80/000000001000/reallive-cctv5plus/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=reallive-cctv5plus
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
@@ -349,7 +349,7 @@ http://eastscreen.tv/ooooo.php?id=chcdz
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-https://nptv.freetv.top/nptv/beijing.m3u8
+
 #EXTINF:-1 tvg-name="北京卫视+" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视+
 http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
 
@@ -371,55 +371,55 @@ http://qtest-play.btime.cn/live/btv_sn_20170706_s1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://39.137.75.234:80/000000001000/1000000001000009115/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000001000009115
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视+
-https://nptv.freetv.top/nptv/hunan.m3u8
+
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://nptv.freetv.top/nptv/zhejiang.m3u8
+
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-https://nptv.freetv.top/nptv/jiangsu.m3u8
+
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=fea03586147486830f10198d1357ddbdb1f90d8a4fabed7f599b91df7cd173b82859573313e2a64bdbd02e7d5423e90cdb9bcc45339795dde8be4befbdbab16b89d440fa21688efa23203758b0
+
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://39.137.75.234:80/000000001000/1000000001000020780/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000001000020780
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视+
-https://nptv.freetv.top/nptv/anhui.m3u8
+
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://nptv.freetv.top/nptv/heilongjiang.m3u8
+
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://nptv.freetv.top/nptv/liaoning.m3u8
+
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://39.137.75.234:80/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive\u0026Contentid=1000000005000265028\u0026livemode=1\u0026stbId=no
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视+
-https://nptv.freetv.top/nptv/shenzheng.m3u8
+
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-https://nptv.freetv.top/nptv/guangdong.m3u8
+
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-https://nptv.freetv.top/nptv/tianjing.m3u8
+
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://www.freetv.top/migu/947472496.m3u8?migutoken=c11ab37089b08b36b901c4a2b424fdc56b62cf85ce22799954221dfb115dc4aa5e75fe6d38966f51998989eda40a5cd26c2f0dcf4d9c3feac17664585c7cb85e992bfd1a7209ee633417590889
+
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-https://nptv.freetv.top/nptv/shandong.m3u8
+
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://39.137.75.234:80/000000001000/1000000002000018937/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000002000018937
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视+
-https://nptv.freetv.top/nptv/chongqing.m3u8
+
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-https://nptv.freetv.top/nptv/dongnan.m3u8
+
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://39.137.75.234:80/000000001000/1000000002000016825/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000002000016825
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视+
-https://nptv.freetv.top/nptv/sichuan.m3u8
+
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-https://www.freetv.top/migu/738910838.m3u8?migutoken=25ab7db9c8d8b355cb9de7d0624865d4f827d7b8bba8d1bb6ec8e3840f056dfc766ab8c16f1f34f1dcee0be941b49d3bbea828020ed464ce1b4eb3d0f9249f17518f894d02bc8352881d2a4249
+
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-https://nptv.freetv.top/nptv/dongnan.m3u8
+
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://39.137.75.234:80/000000001000/1000000002000017118/1.m3u8?livemode=1\u0026stbId=no\u0026channel-id=ystenlive\u0026Contentid=1000000002000017118
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视+
-https://nptv.freetv.top/nptv/hebei.m3u8
+
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-https://www.freetv.top/migu/783847495.m3u8?migutoken=5003be072445e8d0bbf2ccd7e25d7c5901f1d99d2e736a1c305396c75d17395d3798f1084e8734f5599b24ed51e241be5e1b6824a684372f9ca0ee76e6d6cac231da65564f885da5fb7897d222
+
 
 
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
