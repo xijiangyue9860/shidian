@@ -2,17 +2,17 @@
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
-http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
-https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-http://bx.757888.xyz/api.php?id=fhzw
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
-http://bx.757888.xyz/api.php?id=fhzx
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
-http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
 http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台4
@@ -20,7 +20,7 @@ http://1.95.83.42:9908/fhx.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台5
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
-http://bx.757888.xyz/api.php?id=fhhk
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 
 #EXTINF:-1 group-title="凤凰",卫视体育台
@@ -47,62 +47,64 @@ http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1002
 #EXTINF:-1 group-title="4K",bbcearth
 http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8998ac4daa157eb2ea8f9229d4411dff
 
-#EXTINF:-1 ,18台
-http://bx.757888.xyz/api.php?id=18
-#EXTINF:-1 ,TVB Plus
-http://bx.757888.xyz/api.php?id=tvbp
-#EXTINF:-1 ,明珠台
-http://bx.757888.xyz/api.php?id=mz
-#EXTINF:-1 ,無線新聞台
-http://bx.757888.xyz/api.php?id=wxxw
-#EXTINF:-1 ,美亞電影台
-http://bx.757888.xyz/api.php?id=meiya
-#EXTINF:-1 ,翡翠台
-http://bx.757888.xyz/api.php?id=fct
-#EXTINF:-1 ,鳳凰中文
-http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1 ,鳳凰資訊
-http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 ,鳳凰香港
-http://bx.757888.xyz/api.php?id=fhhk
-#EXTINF:-1 ,緯來體育
-http://bx.757888.xyz/api.php?id=wlty
-#EXTINF:-1 ,台視
-http://bx.757888.xyz/api.php?id=台視
-#EXTINF:-1 ,台視新聞
-http://bx.757888.xyz/api.php?id=台視新聞
-#EXTINF:-1 ,中視
-http://bx.757888.xyz/api.php?id=中視
-#EXTINF:-1 ,中視新聞
-http://bx.757888.xyz/api.php?id=中視新聞
-#EXTINF:-1 ,華視
-http://bx.757888.xyz/api.php?id=華視
-#EXTINF:-1 ,華視新聞
-http://bx.757888.xyz/api.php?id=華視新聞
-#EXTINF:-1 ,三立新聞iNEWS
-http://bx.757888.xyz/api.php?id=三立新聞iNEWS
-#EXTINF:-1 ,中天新聞台
-http://bx.757888.xyz/api.php?id=中天新聞
-#EXTINF:-1 ,寰宇新聞台
-http://bx.757888.xyz/api.php?id=寰宇新聞
-#EXTINF:-1 ,寰宇財經台
-http://bx.757888.xyz/api.php?id=寰宇財經
-#EXTINF:-1 ,龍華卡通台
-http://bx.757888.xyz/api.php?id=龍華卡通
-#EXTINF:-1 ,龍華戲劇台
-http://bx.757888.xyz/api.php?id=龍華戲劇
-#EXTINF:-1 ,龍華偶像台
-http://bx.757888.xyz/api.php?id=龍華偶像
-#EXTINF:-1 ,龍華日韓台
-http://bx.757888.xyz/api.php?id=龍華日韓
-#EXTINF:-1 ,龍華經典台
-http://bx.757888.xyz/api.php?id=龍華經典
-#EXTINF:-1 ,龍華電影台
-http://bx.757888.xyz/api.php?id=龍華電影
-#EXTINF:-1 ,龍華洋片台
-http://bx.757888.xyz/api.php?id=龍華洋片
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-name="緯來體育" tvg-logo="http://bxtv.3a.ink/logo/纬来体育.png",緯來體育
+http://bxtv.3a.ink/api.php?id=wlty
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://bxtv.3a.ink/logo/广东体育.png",广东体育
+http://bxtv.3a.ink/api.php?id=gdty
+#EXTINF:-1 tvg-name="台視" tvg-logo="http://bxtv.3a.ink/logo/台视.png",台視
+http://bxtv.3a.ink/api.php?id=台視
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="http://bxtv.3a.ink/logo/台视新闻.png",台視新聞
+http://bxtv.3a.ink/api.php?id=台視新聞
+#EXTINF:-1 tvg-name="中視" tvg-logo="http://bxtv.3a.ink/logo/中视.png",中視
+http://bxtv.3a.ink/api.php?id=中視
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="http://bxtv.3a.ink/logo/中视新闻.png",中視新聞
+http://bxtv.3a.ink/api.php?id=中視新聞
+#EXTINF:-1 tvg-name="華視" tvg-logo="http://bxtv.3a.ink/logo/华视.png",華視
+http://bxtv.3a.ink/api.php?id=華視
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="http://bxtv.3a.ink/logo/华视新闻.png",華視新聞
+http://bxtv.3a.ink/api.php?id=華視新聞
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="http://bxtv.3a.ink/logo/三立INEWS.png",三立新聞iNEWS
+http://bxtv.3a.ink/api.php?id=三立新聞iNEWS
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台
+http://bxtv.3a.ink/api.php?id=中天新聞
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="http://bxtv.3a.ink/logo/寰宇新闻.png",寰宇新聞台
+http://bxtv.3a.ink/api.php?id=寰宇新聞
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="http://bxtv.3a.ink/logo/寰宇财经.png",寰宇財經台
+http://bxtv.3a.ink/api.php?id=寰宇財經
+#EXTINF:-1 tvg-name="龍華卡通台" tvg-logo="http://bxtv.3a.ink/logo/龙华卡通.png",龍華卡通台
+http://bxtv.3a.ink/api.php?id=龍華卡通
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="http://bxtv.3a.ink/logo/龙华戏剧.png",龍華戲劇台
+http://bxtv.3a.ink/api.php?id=龍華戲劇
+#EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="http://bxtv.3a.ink/logo/龙华偶像.png",龍華偶像台
+http://bxtv.3a.ink/api.php?id=龍華偶像
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="http://bxtv.3a.ink/logo/龙华日韩.png",龍華日韓台
+http://bxtv.3a.ink/api.php?id=龍華日韓
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="http://bxtv.3a.ink/logo/龙华经典.png",龍華經典台
+http://bxtv.3a.ink/api.php?id=龍華經典
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="http://bxtv.3a.ink/logo/龙华电影.png",龍華電影台
+http://bxtv.3a.ink/api.php?id=龍華電影
+#EXTINF:-1 tvg-name="龍華洋片台" tvg-logo="http://bxtv.3a.ink/logo/龙华洋片.png",龍華洋片台
+http://bxtv.3a.ink/api.php?id=龍華洋片
 
-#EXTM3U x-tvg-url=""
+
 #EXTM3U x-tvg-url=""
 
 #EXTINF:1 aktv-group="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",Animax (HK)
