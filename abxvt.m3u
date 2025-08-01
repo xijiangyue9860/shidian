@@ -3,33 +3,22 @@
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
 
-#EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
-
-#EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
-
-#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
-
-#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
-http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台4
-http://1.95.83.42:9908/fhx.php?id=fhzx
-#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台5
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
-
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 
 #EXTINF:-1 group-title="凤凰",卫视体育台
 
+#EXTINF:-1 group-title="4K",Loupe 4k
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 #EXTINF:-1 group-title="4K",LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",Loupe 4k
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
 #EXTINF:-1 group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K",Fashiontv
