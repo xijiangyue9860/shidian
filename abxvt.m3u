@@ -37,6 +37,9 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
 
+#EXTINF:-1 group-title="4K",广州南国都市4K
+https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+
 #EXTINF:-1 group-title="4K",cctv 4k
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8?$40M3840x2160
 #EXTINF:-1 group-title="4K",CCTV 4k1
@@ -378,6 +381,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视32台.png" group-title="香港",港台电视32台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+
 
 
 
