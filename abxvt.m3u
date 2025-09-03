@@ -265,6 +265,136 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="浙江频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+#EXTINF:-1 ,cctv1
+http://live.xmqkx.com/live/1001_1.m3u8
+#EXTINF:-1 ,cctv2
+http://live.xmqkx.com/live/1002_1.m3u8
+#EXTINF:-1 ,cctv3
+http://live.xmqkx.com/live/1003_1.m3u8
+#EXTINF:-1 ,cctv4
+http://live.xmqkx.com/live/1004_1.m3u8
+#EXTINF:-1 ,cctv5
+http://live.xmqkx.com/live/1005_1.m3u8
+#EXTINF:-1 ,cctv6
+http://live.xmqkx.com/live/1006_1.m3u8
+#EXTINF:-1 ,cctv7
+http://live.xmqkx.com/live/1007_1.m3u8
+#EXTINF:-1 ,cctv8
+http://live.xmqkx.com/live/1008_1.m3u8
+#EXTINF:-1 ,cctv9
+http://live.xmqkx.com/live/1009_1.m3u8
+#EXTINF:-1 ,cctv10
+http://live.xmqkx.com/live/1010_1.m3u8
+#EXTINF:-1 ,cctv11
+http://live.xmqkx.com/live/1011_1.m3u8
+#EXTINF:-1 ,cctv12
+http://live.xmqkx.com/live/1012_1.m3u8
+#EXTINF:-1 ,cctv13
+http://live.xmqkx.com/live/1013_1.m3u8
+#EXTINF:-1 ,cctv14
+http://live.xmqkx.com/live/1014_1.m3u8
+#EXTINF:-1 ,cctv15
+http://live.xmqkx.com/live/1015+_1.m3u8
+#EXTINF:-1 ,cctv16
+http://live.xmqkx.com/live/1016_1.m3u8
+#EXTINF:-1 ,cctv17
+http://live.xmqkx.com/live/1017_1.m3u8
+#EXTINF:-1 ,cctv5+
+http://live.xmqkx.com/live/1018_1.m3u8
+#EXTINF:-1 ,cctv1
+http://api.mytv666.top/api/kzb.php?id=cctv1
+#EXTINF:-1 ,cctv2
+http://api.mytv666.top/api/kzb.php?id=cctv2
+#EXTINF:-1 ,cctv3
+http://api.mytv666.top/api/kzb.php?id=cctv3
+#EXTINF:-1 ,cctv4
+http://api.mytv666.top/api/kzb.php?id=cctv4
+#EXTINF:-1 ,cctv4美洲
+http://api.mytv666.top/api/kzb.php?id=cctv4美洲
+#EXTINF:-1 ,cctv4欧洲
+http://api.mytv666.top/api/kzb.php?id=cctv4欧洲
+#EXTINF:-1 ,cctv5
+http://api.mytv666.top/api/kzb.php?id=cctv5
+#EXTINF:-1 ,cctv5+
+http://api.mytv666.top/api/kzb.php?id=cctv5p
+#EXTINF:-1 ,cctv6
+http://api.mytv666.top/api/kzb.php?id=cctv6
+#EXTINF:-1 ,cctv7
+http://api.mytv666.top/api/kzb.php?id=cctv7
+#EXTINF:-1 ,cctv8
+http://api.mytv666.top/api/kzb.php?id=cctv8
+#EXTINF:-1 ,cctv9
+http://api.mytv666.top/api/kzb.php?id=cctv9
+#EXTINF:-1 ,cctv10
+http://api.mytv666.top/api/kzb.php?id=cctv10
+#EXTINF:-1 ,cctv11
+http://api.mytv666.top/api/kzb.php?id=cctv11
+#EXTINF:-1 ,cctv12
+http://api.mytv666.top/api/kzb.php?id=cctv12
+#EXTINF:-1 ,cctv13
+http://api.mytv666.top/api/kzb.php?id=cctv13
+#EXTINF:-1 ,cctv14
+http://api.mytv666.top/api/kzb.php?id=cctv14
+#EXTINF:-1 ,cctv15
+http://api.mytv666.top/api/kzb.php?id=cctv15
+#EXTINF:-1 ,cctv17
+http://api.mytv666.top/api/kzb.php?id=cctv17
+#EXTINF:-1 ,北京卫视
+http://api.mytv666.top/api/kzb.php?id=北京卫视
+#EXTINF:-1 ,东方卫视
+http://api.mytv666.top/api/kzb.php?id=东方卫视
+#EXTINF:-1 ,天津卫视
+http://api.mytv666.top/api/kzb.php?id=天津卫视
+#EXTINF:-1 ,重庆卫视
+http://api.mytv666.top/api/kzb.php?id=重庆卫视
+#EXTINF:-1 ,黑龙江卫视
+http://api.mytv666.top/api/kzb.php?id=黑龙江卫视
+#EXTINF:-1 ,吉林卫视
+http://api.mytv666.top/api/kzb.php?id=吉林卫视
+#EXTINF:-1 ,辽宁卫视
+http://api.mytv666.top/api/kzb.php?id=辽宁卫视
+#EXTINF:-1 ,甘肃卫视
+http://api.mytv666.top/api/kzb.php?id=甘肃卫视
+#EXTINF:-1 ,青海卫视
+http://api.mytv666.top/api/kzb.php?id=青海卫视
+#EXTINF:-1 ,陕西卫视
+http://api.mytv666.top/api/kzb.php?id=陕西卫视
+#EXTINF:-1 ,河北卫视
+http://api.mytv666.top/api/kzb.php?id=河北卫视
+#EXTINF:-1 ,山西卫视
+http://api.mytv666.top/api/kzb.php?id=山西卫视
+#EXTINF:-1 ,山东卫视
+http://api.mytv666.top/api/kzb.php?id=山东卫视
+#EXTINF:-1 ,安徽卫视
+http://api.mytv666.top/api/kzb.php?id=安徽卫视
+#EXTINF:-1 ,河南卫视
+http://api.mytv666.top/api/kzb.php?id=河南卫视
+#EXTINF:-1 ,湖北卫视
+http://api.mytv666.top/api/kzb.php?id=湖北卫视
+#EXTINF:-1 ,湖南卫视
+http://api.mytv666.top/api/kzb.php?id=湖南卫视
+#EXTINF:-1 ,江西卫视
+http://api.mytv666.top/api/kzb.php?id=江西卫视
+#EXTINF:-1 ,江苏卫视
+http://api.mytv666.top/api/kzb.php?id=江苏卫视
+#EXTINF:-1 ,浙江卫视
+http://api.mytv666.top/api/kzb.php?id=浙江卫视
+#EXTINF:-1 ,东南卫视
+http://api.mytv666.top/api/kzb.php?id=东南卫视
+#EXTINF:-1 ,广东卫视
+http://api.mytv666.top/api/kzb.php?id=广东卫视
+#EXTINF:-1 ,深圳卫视
+http://api.mytv666.top/api/kzb.php?id=深圳卫视
+#EXTINF:-1 ,广西卫视
+http://api.mytv666.top/api/kzb.php?id=广西卫视
+#EXTINF:-1 ,贵州卫视
+http://api.mytv666.top/api/kzb.php?id=贵州卫视
+#EXTINF:-1 ,四川卫视
+http://api.mytv666.top/api/kzb.php?id=四川卫视
+#EXTINF:-1 ,新疆卫视
+http://api.mytv666.top/api/kzb.php?id=新疆卫视
+#EXTINF:-1 ,海南卫视
+http://api.mytv666.top/api/kzb.php?id=海南卫视
 
 #EXTINF:-1 group-title="电影",HBO HD
 
@@ -381,6 +511,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视32台.png" group-title="香港",港台电视32台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+
 
 
 
