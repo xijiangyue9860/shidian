@@ -36,9 +36,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
-
-#EXTINF:-1 group-title="4K",广州南国都市4K
-https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+#EXTINF:-1 group-title="4K",河北 4k
+https://event.pull.hebtv.com:443/live/live101.m3u8
 
 #EXTINF:-1 group-title="4K",cctv 4k
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8?$40M3840x2160
@@ -49,9 +48,6 @@ http://117.174.25.254:8188/rtp/239.0.0.184:5140?$3840x2160
 #EXTINF:-1 group-title="4K",CCTV 4k3
 http://219.140.5.23:8888/rtp/239.69.1.111:10304?$3840x2160
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
-#EXTINF:-1 group-title="4K",河北 4k
-https://event.pull.hebtv.com:443/live/live101.m3u8
 
 #EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml"
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png",myTV SUPER 18台
@@ -545,6 +541,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 https://live2.xmqkx.com/live/24a96922238e45f7ab7b3157cd8b0298.flv
 #EXTINF:-1 ,18台
 https://live2.xmqkx.com/live/24a96922238e45f7ab7b3157cd8b0051.flv
+
 
 
 
