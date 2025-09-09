@@ -84,7 +84,7 @@ http://bxtv.3a.ink/api.php?id=gdzj
 http://bxtv.3a.ink/api.php?id=ztxw
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1+
 
 #EXTINF:-1 tvg-name="CCTV1+" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1++
@@ -890,6 +890,7 @@ http://now.hxfrock.ggff.net/iptv.php?id=20283
 http://now.hxfrock.ggff.net/iptv.php?id=20289
 #EXTINF:-1 tvg-id="新唐人" tvg-name="新唐人" tvg-logo="" group-title="台湾频道",新唐人
 http://now.hxfrock.ggff.net/iptv.php?id=20312
+
 
 
 
