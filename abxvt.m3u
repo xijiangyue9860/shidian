@@ -29,6 +29,8 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
 #EXTINF:-1 group-title="4K",LOVENATURE4K
 https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="4K",LOVENATURE
+http://now.hxfrock.ggff.net/iptv.php?id=20281
 #EXTINF:-1 group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K",Fashiontv
@@ -229,31 +231,31 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 group-title="电影",HBO HD
-http://iptv.4666888.xyz/iptv.php?id=20250
+
 #EXTINF:-1 group-title="电影",HBO
-http://iptv.4666888.xyz/iptv.php?id=20249
+
 #EXTINF:-1 group-title="电影",HBO 2
 
 #EXTINF:-1 group-title="电影",HBO Family
 
 #EXTINF:-1 group-title="电影",HBO-Ignature
-http://iptv.4666888.xyz/iptv.php?id=20253
+
 #EXTINF:-1 group-title="电影",HBO Hits
-http://iptv.4666888.xyz/iptv.php?id=20252
+
 #EXTINF:-1 group-title="电影",东森电影
-http://iptv.4666888.xyz/iptv.php?id=20211
+
 #EXTINF:-1 group-title="电影",东森洋片
-http://iptv.4666888.xyz/iptv.php?id=20212
+
 #EXTINF:-1 group-title="电影",好莱坞电影
-http://iptv.4666888.xyz/iptv.php?id=20248
+
 #EXTINF:-1 group-title="电影",龙华电影
-http://iptv.4666888.xyz/iptv.php?id=20240
+
 #EXTINF:-1 group-title="电影",CINEMAX
 
 #EXTINF:-1 group-title="电影",BBC_Earth
-http://iptv.4666888.xyz/iptv.php?id=20279
+
 #EXTINF:-1group-title="电影",History
-http://iptv.4666888.xyz/iptv.php?id=20283
+
 #EXTINF:-1 group-title="电影",龙华洋片
 
 #EXTINF:-1 group-title="电影",龙祥时代
@@ -890,6 +892,7 @@ http://now.hxfrock.ggff.net/iptv.php?id=20283
 http://now.hxfrock.ggff.net/iptv.php?id=20289
 #EXTINF:-1 tvg-id="新唐人" tvg-name="新唐人" tvg-logo="" group-title="台湾频道",新唐人
 http://now.hxfrock.ggff.net/iptv.php?id=20312
+
 
 
 
