@@ -16,6 +16,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+#EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
+http://118.113.150.189:10000/udp/239.93.1.4:2191
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -161,7 +163,7 @@ http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
 http://dsm.ccb912.top:9998/udp/239.93.42.7:5140
 #EXTINF:-1 tvg-name="CHC动作电影1" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影1
-http://dsm.ccb912.top:9998/udp/239.93.42.5:5140
+http://118.113.150.189:10000/udp/239.93.42.7:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 
@@ -896,6 +898,7 @@ http://now.hxfrock.ggff.net/iptv.php?id=20283
 http://now.hxfrock.ggff.net/iptv.php?id=20289
 #EXTINF:-1 tvg-id="新唐人" tvg-name="新唐人" tvg-logo="" group-title="台湾频道",新唐人
 http://now.hxfrock.ggff.net/iptv.php?id=20312
+
 
 
 
