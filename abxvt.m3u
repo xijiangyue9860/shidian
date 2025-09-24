@@ -120,7 +120,7 @@ https://php.946985.xyz/jack4gtv.php?ch=4gtv-live138
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1+
-http://ikuai.sunjianwu.fun:8800/udp/239.49.8.19:9614
+
 #EXTINF:-1 tvg-name="CCTV1+" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1++
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
@@ -181,15 +181,15 @@ http://ikuai.sunjianwu.fun:8800/udp/239.49.8.19:9614
 
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-http://dsm.ccb912.top:9998/udp/239.93.42.6:5140
+
 #EXTINF:-1 tvg-name="CHC家庭影院1" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院1
 
 #EXTINF:-1 tvg-name="CHC家庭影院2" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院2
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-http://dsm.ccb912.top:9998/udp/239.93.42.7:5140
+
 #EXTINF:-1 tvg-name="CHC动作电影1" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影1
-http://118.113.150.189:10000/udp/239.93.42.7:5140
+
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 
@@ -313,9 +313,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台
-http://php.jdshipin.com/smt.php?id=inews_twn
+
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (备用)
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -325,7 +325,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus (备用)
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 
@@ -349,7 +349,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="香港",ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="香港",ViuTV (备用)
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
@@ -466,6 +466,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 ,CCTV1港澳版
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
 
 
 
