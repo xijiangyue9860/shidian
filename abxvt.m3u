@@ -45,9 +45,9 @@ https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 group-title="4K",LOVENATURE
 
 #EXTINF:-1 group-title="4K",LOVENATURE1
-https://php.946985.xyz/jack4gtv.php?ch=4gtv-live208
+
 #EXTINF:-1 group-title="4K",Fashion 4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="4K",Fashiontv
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
@@ -87,9 +87,9 @@ http://180.165.2.27:9898/udp/239.45.1.42:5140
 #EXTINF:-1 ,苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 ,北京纪实8K
-http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
+
 #EXTINF:-1 ,北京纪实8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
 
 
 #EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml"
@@ -141,7 +141,6 @@ http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/TVBS.png",TVBS 新聞台
 
 #EXTINF:-1 tvg-id="ROCK_Action" tvg-name="ROCK_Action" tvg-logo="" group-title="",ROCK_Action
-https://php.946985.xyz/jack4gtv.php?ch=4gtv-live138
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
@@ -209,19 +208,19 @@ http://180.165.2.27:9898/udp/239.45.3.52:5140
 
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-http://111.162.166.224:8086/udp/225.1.1.213:5002
+
 #EXTINF:-1 tvg-name="CHC家庭影院1" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院1
 
 #EXTINF:-1 tvg-name="CHC家庭影院2" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院2
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-http://111.162.166.224:8086/udp/225.1.1.215:5002
+
 #EXTINF:-1 tvg-name="CHC动作电影1" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影1
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影1
-http://111.162.166.224:8086/udp/225.1.1.214:5002
+
 
 #EXTINF:-1 tvg-name="北京卫视+" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视+
 
@@ -1104,6 +1103,7 @@ http://ygbh.site/php/bfgd.php?id=491
 http://ygbh.site/php/bfgd.php?id=490
 #EXTINF:-1 ,葫芦岛新闻综合
 http://ygbh.site/php/bfgd.php?id=284
+
 
 
 
