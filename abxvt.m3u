@@ -53,13 +53,13 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
-http://14.153.182.41:8686/udp/239.77.0.2:5146
+
 #EXTINF:-1 group-title="4K",河北 4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K",深圳 4k
-http://14.153.182.41:8686/udp/239.77.0.67:5146
+
 #EXTINF:-1 group-title="4K",广东 4k
-http://14.153.182.41:8686/udp/239.77.0.66:5146
+
 #EXTINF:-1 group-title="4K",cctv 4k
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8?$40M3840x2160
 #EXTINF:-1 group-title="4K",CCTV 4k1
@@ -1103,6 +1103,7 @@ http://ygbh.site/php/bfgd.php?id=491
 http://ygbh.site/php/bfgd.php?id=490
 #EXTINF:-1 ,葫芦岛新闻综合
 http://ygbh.site/php/bfgd.php?id=284
+
 
 
 
