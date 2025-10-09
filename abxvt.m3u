@@ -136,7 +136,7 @@ http://bxtv.3a.ink/api.php?id=gdzj
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台CTI+
-
+rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/TVBS.png",TVBS 新聞台
 
@@ -1105,6 +1105,7 @@ http://ygbh.site/php/bfgd.php?id=491
 http://ygbh.site/php/bfgd.php?id=490
 #EXTINF:-1 ,葫芦岛新闻综合
 http://ygbh.site/php/bfgd.php?id=284
+
 
 
 
