@@ -582,11 +582,11 @@ http://120.76.248.139/live/bfgd/4200000298.m3u8
 #EXTINF:-1 group-title="电影",HBO Hits
 
 #EXTINF:-1 group-title="电影",东森电影
-
+https://stream1.freetv.fun/f76bf60a2e1a2ab076884c7e5f522c300b2cfa7f625fdb1eac40a5ee215da182.ctv
 #EXTINF:-1 group-title="电影",东森洋片
-
+https://stream1.freetv.fun/40161630bae639121ee9197701ac610120d0c5674efe83726e8232182092da0b.ctv
 #EXTINF:-1 group-title="电影",好莱坞电影
-
+https://stream1.freetv.fun/230493d0210e41dbdff84c43477df3e404aa13845a0ad6d115a713542f5ca0d0.ctv
 #EXTINF:-1 group-title="电影",龙华电影
 
 #EXTINF:-1 group-title="电影",CINEMAX
@@ -1105,6 +1105,7 @@ http://ygbh.site/php/bfgd.php?id=491
 http://ygbh.site/php/bfgd.php?id=490
 #EXTINF:-1 ,葫芦岛新闻综合
 http://ygbh.site/php/bfgd.php?id=284
+
 
 
 
