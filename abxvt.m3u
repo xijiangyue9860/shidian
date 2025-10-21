@@ -53,7 +53,7 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="4K",苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
-
+http://114.246.181.8:4022/udp/239.3.1.249:8001
 #EXTINF:-1 group-title="4K",河北 4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K",深圳 4k
@@ -71,17 +71,17 @@ http://124.116.170.138:8081/udp/239.112.205.186:5140
 #EXTINF:-1 group-title="4K",爱上 4k
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
+http://xrhui.f3322.org:8888/udp/233.50.201.63:5140
 #EXTINF:-1 ,欢笑剧场4K
-
+http://xrhui.f3322.org:8888/udp/233.50.200.52:5140
 #EXTINF:-1 ,百事通4K纪实
-
+http://xrhui.f3322.org:8888/udp/233.50.200.182:5140
 #EXTINF:-1 ,百事通4K儿童
-
+http://xrhui.f3322.org:8888/udp/233.50.200.183:5140
 #EXTINF:-1 ,百事通4K儿童
 
 #EXTINF:-1 ,百事通4K电影
-
+http://xrhui.f3322.org:8888/udp/233.50.200.185:5140
 #EXTINF:-1 ,百事通4K电影
 
 #EXTINF:-1 ,苏州4K
@@ -216,24 +216,24 @@ http://222.95.140.66:58888/udp/239.49.8.52:9810
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17+
 #EXTINF:-1 ,CCTV4欧洲
-
+http://220.176.218.102:9000/udp/239.252.219.192:5140
 #EXTINF:-1 ,CCTV4美洲
-
+http://220.176.218.102:9000/udp/239.252.219.193:5140
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-
+http://220.176.218.102:9000/udp/239.252.219.84:5140
 #EXTINF:-1 tvg-name="CHC家庭影院1" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院1
 
 #EXTINF:-1 tvg-name="CHC家庭影院2" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院2
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-
+http://220.176.218.102:9000/udp/239.252.219.85:5140
 #EXTINF:-1 tvg-name="CHC动作电影1" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影1
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影1
-
+http://220.176.218.102:9000/udp/239.252.219.83:5140
 
 #EXTINF:-1 tvg-name="北京卫视+" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视+
 http://222.95.140.66:58888/udp/239.49.8.11:9414
@@ -497,6 +497,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 ,CCTV1港澳版
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
 
 
 
