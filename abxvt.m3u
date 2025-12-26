@@ -97,7 +97,7 @@ https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="4K",江苏卫视4K
 
 #EXTINF:-1 group-title="4K",浙江卫视4K
-
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
 #EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml"
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="香港",myTV SUPER 18台
@@ -187,6 +187,109 @@ http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:-1 ,重温经典
 http://38.75.136.137:98/gsl/dsdqbv/cwjdhd.m3u8?auth=test20251009
+
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合
+http://tvlist.top/jd/index.php?id=cctv1&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV2-财经
+http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV3-综艺
+http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV4-中文国际
+http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV5-体育
+http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV6-电影
+http://tvlist.top/jd/index.php?id=cctv6&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV7-军事农业
+http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV8-电视剧
+http://tvlist.top/jd/index.php?id=cctv8&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV9-记录
+http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV-10
+http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV11-戏曲
+http://tvlist.top/jd/index.php?id=cctv11&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV12-社会与法
+http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV13-新闻
+http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV14-少儿
+http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV15-音乐
+http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV16
+http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+#EXTINF:-1 ,CCTV5+
+http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
+#EXTINF:-1 ,安徽卫视
+http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
+#EXTINF:-1 ,北京卫视
+http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
+#EXTINF:-1 ,重庆卫视
+http://tvlist.top/jd/index.php?id=cqws&qt=183.224.122.114:8014
+#EXTINF:-1 ,东方卫视
+http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
+#EXTINF:-1 ,东南卫视
+http://tvlist.top/jd/index.php?id=dnws&qt=183.224.122.114:8014
+#EXTINF:-1 ,甘肃卫视
+http://tvlist.top/jd/index.php?id=gsws&qt=183.224.122.114:8014
+#EXTINF:-1 ,广西卫视
+http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
+#EXTINF:-1 ,贵州卫视
+http://tvlist.top/jd/index.php?id=gzws&qt=183.224.122.114:8014
+#EXTINF:-1 ,河北卫视
+http://tvlist.top/jd/index.php?id=hebeiws&qt=183.224.122.114:8014
+#EXTINF:-1 ,河南卫视
+http://tvlist.top/jd/index.php?id=hnws&qt=183.224.122.114:8014
+#EXTINF:-1 ,黑龙江卫视
+http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
+#EXTINF:-1 ,湖北卫视
+http://tvlist.top/jd/index.php?id=hbws&qt=183.224.122.114:8014
+#EXTINF:-1 ,湖南卫视
+http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
+#EXTINF:-1 ,吉林卫视
+http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
+#EXTINF:-1 ,江苏卫视
+http://tvlist.top/jd/index.php?id=jsws&qt=183.224.122.114:8014
+#EXTINF:-1 ,江西卫视
+http://tvlist.top/jd/index.php?id=jxws&qt=183.224.122.114:8014
+#EXTINF:-1 ,康巴卫视
+http://tvlist.top/jd/index.php?id=live4468&qt=183.224.122.114:8014
+#EXTINF:-1 ,辽宁卫视
+http://tvlist.top/jd/index.php?id=lnws&qt=183.224.122.114:8014
+#EXTINF:-1 ,内蒙古卫视
+http://tvlist.top/jd/index.php?id=neimenggu&qt=183.224.122.114:8014
+#EXTINF:-1 ,宁夏卫视
+http://tvlist.top/jd/index.php?id=linxws&qt=183.224.122.114:8014
+#EXTINF:-1 ,农林卫视
+http://tvlist.top/jd/index.php?id=live3843&qt=183.224.122.114:8014
+#EXTINF:-1 ,青海卫视
+http://tvlist.top/jd/index.php?id=qhws&qt=183.224.122.114:8014
+#EXTINF:-1 ,厦门卫视
+http://tvlist.top/jd/index.php?id=xmws&qt=183.224.122.114:8014
+#EXTINF:-1 ,山东卫视
+http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
+#EXTINF:-1 ,山西卫视
+http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
+#EXTINF:-1 ,陕西卫视
+http://tvlist.top/jd/index.php?id=shxws&qt=183.224.122.114:8014
+#EXTINF:-1 ,深圳卫视
+http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
+#EXTINF:-1 ,四川卫视
+http://tvlist.top/jd/index.php?id=scws&qt=183.224.122.114:8014
+#EXTINF:-1 ,天津卫视
+http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
+#EXTINF:-1 ,西藏卫视
+http://tvlist.top/jd/index.php?id=xzws&qt=183.224.122.114:8014
+#EXTINF:-1 ,新疆卫视
+http://tvlist.top/jd/index.php?id=xjws&qt=183.224.122.114:8014
+#EXTINF:-1 ,云南卫视
+http://tvlist.top/jd/index.php?id=ynws&qt=183.224.122.114:8014
+#EXTINF:-1 ,浙江卫视
+http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1011,6 +1114,7 @@ http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 http://118.233.28.52:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
 #EXTINF:-1 ,影迷數位紀實台
 http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
+
 
 
 
