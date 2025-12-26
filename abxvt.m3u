@@ -10,14 +10,14 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
 http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fiptv.4666888.xyz%2Fiptv2A.php%3Fid%3D%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
 http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fcdn6.veryfast.filegear-sg.me%2Flive%2Ffhzx%2Fstream.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
-
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
 http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fsmt.veryfast.filegear-sg.me%2Fsmt3.2.1.php%3Fid%3Dphoenixinfo_hd
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台4
@@ -25,6 +25,8 @@ http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fsmt.veryfast.filegear-sg.me%
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="凤凰",凤凰卫视香港台2
+http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台1
 http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fcdn6.veryfast.filegear-sg.me%2Flive%2Ffhhk%2Fstream.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
@@ -55,7 +57,7 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
 http://quan2018.mycloudnas.com:9000/udp/239.3.1.249:8001
 #EXTINF:-1 group-title="4K",北京卫视4k+
-
+http://114.246.180.137:4022/udp/239.3.1.249:8001
 #EXTINF:-1 group-title="4K",河北 4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K",深圳 4k
@@ -73,7 +75,7 @@ http://117.174.25.254:8188/rtp/239.0.0.184:5140?$3840x2160
 #EXTINF:-1 group-title="4K",爱上 4k
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
+http://222.95.175.28:58888/udp/239.49.0.109:8000
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K+
 http://xrhui.f3322.org:8888/udp/233.50.201.63:5140
 #EXTINF:-1 group-title="4K",欢笑剧场4K
@@ -365,19 +367,19 @@ http://14.155.131.138:8088/hls/14/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
-
+http://221.198.203.96:8888/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="CHC家庭影院1" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院1
 
 #EXTINF:-1 tvg-name="CHC家庭影院2" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院2
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
-
+http://221.198.203.96:8888/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-name="CHC动作电影1" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影1
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影1
-
+http://221.198.203.96:8888/udp/225.1.1.214:5002
 
 #EXTINF:-1 tvg-name="北京卫视+" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视+
 
@@ -1114,6 +1116,7 @@ http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 http://118.233.28.52:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
 #EXTINF:-1 ,影迷數位紀實台
 http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
+
 
 
 
