@@ -140,7 +140,7 @@ http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
 https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台CTI+
-https://v.hystudio.cn:8088/live/yifatv-ztxw02.m3u8
+http://smart.hxfkof.ggff.net/smart.m3u8?id=ctinews
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
 http://118.233.28.52:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
 
@@ -1118,6 +1118,7 @@ http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 http://118.233.28.52:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
 #EXTINF:-1 ,影迷數位紀實台
 http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
+
 
 
 
