@@ -102,14 +102,15 @@ https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 #EXTINF:-1 group-title="4K",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
+#EXTINF:-1 group-title="4K",浙江卫视4K+
+https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml"
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="香港",myTV SUPER 18台
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="香港",TVB Plus
-
+http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="香港",明珠台
-
+http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png" group-title="香港",無線新聞台
 
 #EXTINF:-1 tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png" group-title="香港",美亞電影台
@@ -117,11 +118,11 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="香港",PopC
 
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png" group-title="香港",VIUTV
-
+http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="http://bxtv.3a.ink/logo/千禧经典.png" group-title="香港",千禧經典台
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="香港",翡翠台
-
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="香港",鳳凰衛視中文台
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="香港",鳳凰衛視資訊台
@@ -138,9 +139,9 @@ http://bxtv.3a.ink/api.php?id=fhhk
 http://bxtv.3a.ink/api.php?id=ztxw
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
-
+http://96.44.160.246:9999/smt.php?id=ctinews
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台CTI+
-
+http://96.44.160.246:9999/smt.php?id=ctiasia_twn
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
 http://118.233.28.52:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
 
@@ -645,6 +646,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 ,CCTV1港澳版
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
 
 
 
