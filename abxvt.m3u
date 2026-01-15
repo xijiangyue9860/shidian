@@ -77,7 +77,7 @@ http://117.174.25.254:8188/rtp/239.0.0.184:5140?$3840x2160
 #EXTINF:-1 group-title="4K",爱上 4k
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
+http://mytveo.hxfkof.ggff.net/PLTV/?yspid=CCTV16(4K)
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K+
 http://xrhui.f3322.org:8888/udp/233.50.201.63:5140
 #EXTINF:-1 group-title="4K",欢笑剧场4K
@@ -646,6 +646,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 ,CCTV1港澳版
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
 
 
 
