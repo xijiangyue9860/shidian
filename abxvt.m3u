@@ -4,18 +4,18 @@
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台
-
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
-
+http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
 http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fiptv.4666888.xyz%2Fiptv2A.php%3Fid%3D27
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-
+http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台4
 http://r.jdshipin.com/cCCzW
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
-
+http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
 http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fcdn6.veryfast.filegear-sg.me%2Flive%2Ffhzx%2Fstream.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
@@ -26,11 +26,11 @@ http://iptvproxy.hxfrock.ggff.net/?url=http%3A%2F%2Fcdn6.veryfast.filegear-sg.me
 http://r.jdshipin.com/0Rp07
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
-
+http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台2
-
+http://r.jdshipin.com/NfC0f
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台1
-
+http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台1
@@ -71,25 +71,25 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K",CCTV 4k1
 http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 #EXTINF:-1 group-title="4K",CCTV 4k2
-
+http://67.220.71.199:2347/livehttpplay?channel_id=30029
 #EXTINF:-1 group-title="4K",华数 4k
 
 #EXTINF:-1 group-title="4K",爱上 4k
-
+http://bigy.timwin.top:5400/udp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
+http://www.imengu.cn:6666/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K+
 
 #EXTINF:-1 group-title="4K",欢笑剧场4K
-0
+http://www.imengu.cn:6666/udp/233.50.200.52:5140
 #EXTINF:-1 group-title="4K",百事通4K纪实
-
+http://www.imengu.cn:6666/udp/233.50.200.182:5140
 #EXTINF:-1 group-title="4K",百事通4K儿童
-
+http://www.imengu.cn:6666/udp/233.50.200.183:5140
 #EXTINF:-1 group-title="4K",百事通4K电影
-
+http://www.imengu.cn:6666/udp/233.50.200.185:5140
 #EXTINF:-1 group-title="4K",湖南卫视4K
-
+http://8.138.7.223/tv/api.php?id=hnws4k
 #EXTINF:-1 group-title="4K",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",东方卫视4K
@@ -148,11 +148,11 @@ https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="香港",NOW新闻
 
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="http://bxtv.3a.ink/logo/广东体育.png" group-title="卫视",广东体育
-
+http://67.220.71.199:2347/livehttpplay?channel_id=12028
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://bxtv.3a.ink/logo/广东珠江.png" group-title="卫视",广东珠江
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
-
+http://rihou.cc:555/tv/hktv%2F/tb19tw081156
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
 http://cniptv.hxfrock.ggff.net/ofiii36/index.m3u8?proxy=true
@@ -299,6 +299,8 @@ http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影1
 http://219.139.124.61:8089/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影2
+http://180.152.19.206:1234/952383261
 
 #EXTINF:-1 tvg-name="北京卫视+" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视+
 
@@ -377,7 +379,7 @@ https://stream1.freetv.fun/40161630bae639121ee9197701ac610120d0c5674efe83726e823
 #EXTINF:-1 group-title="电影",好莱坞电影
 https://stream1.freetv.fun/230493d0210e41dbdff84c43477df3e404aa13845a0ad6d115a713542f5ca0d0.ctv
 #EXTINF:-1 group-title="电影",龙华电影
-
+http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 group-title="电影",CINEMAX
 
 #EXTINF:-1 group-title="电影",BBC_Earth
@@ -392,8 +394,8 @@ https://stream1.freetv.fun/230493d0210e41dbdff84c43477df3e404aa13845a0ad6d115a71
 
 #EXTINF:-1 group-title="电影",AXN电影
 
-#EXTINF:-1 group-title="电影",ROCK Entertainment
-
+#EXTINF:-1 group-title="电影",ROCK_Action
+http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 group-title="电影",经典电影
 
 #EXTINF:-1 group-title="电影",天映经典
