@@ -164,7 +164,7 @@ http://67.220.71.199:2347/livehttpplay?channel_id=12028
 
 
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",中天新聞台
-http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
+
 
 #EXTINF:-1 ,cctv1hd
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
