@@ -176,7 +176,8 @@ http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
 http://iptv.4666888.xyz/iptv2A.php?id=43
-
+#EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HDd
+https://test.946985.filegear-sg.me/proxy/aeeed2eb197331b1
 
 #EXTINF:-1 ,cctv1hd
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
