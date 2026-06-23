@@ -16,9 +16,8 @@ https://test.946985.filegear-sg.me/proxy/262c16de37dff45a
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台5
 http://www.kaniptv.cn/ua3.php?etoken=jjfRJp1Bo%2BzvieYdYG6lBHRKjys2LbsPd0vjwhalS768OQdcR9u%2B6KlnHQvOE4r6DhSo1HVI%2B9EpCRqe7O4JqE249pte3%2FuxGRQTtR5USVfmIL5jwQLtHy1VbN5%2BRRgOQ8MTsB8LGYa%2B5KoR4zSfRQ6t2JmcvXKx7nll5ck3OA%2B%2BrgeIQOwy0TVOXrPXndPYvmUnQy7O5YhWf2%2FRp6Xmif7MX2g6i2lF4kQ%2BreX0B5UiI%2BPVZC6bOlEB9EPa20H0t3Er%2Fi%2FRv6G%2BNSEjC0iBoJl3np7fqUbQX2v%2FHaRhAK8eI0GHByntyZyuqhLOzRShCxtwxOH%2FVUjOeRR0jVeImA%3D%3D
-
-
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台6
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台7
 
@@ -41,8 +40,10 @@ http://www.kaniptv.cn/ua3.php?etoken=%2FrjtEJxTb9uNs4gp%2BtKD%2F1Y8PFcogK47u5NDh
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台6
 https://test.946985.filegear-sg.me/proxy/323659c69c899335
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台7
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台8
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
@@ -83,6 +84,7 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
 
 #EXTINF:-1 group-title="4K",北京卫视4k+
+https://live.264788.xyz/channel/beijingweishi4k?streamid=ec1dc6a6eb32cabcbff436085ff993ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="4K",河北 4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -102,6 +104,7 @@ http://67.220.71.199:2347/livehttpplay?channel_id=30029
 #EXTINF:-1 group-title="4K",爱上 4k
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
+https://live.264788.xyz/channel/cctv164k?streamid=aac7972bcf1975e8346c9af0508a7c01&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K+
 
@@ -114,18 +117,26 @@ http://67.220.71.199:2347/livehttpplay?channel_id=30029
 #EXTINF:-1 group-title="4K",百事通4K电影
 
 #EXTINF:-1 group-title="4K",湖南卫视4K
+https://live.264788.xyz/channel/hunanweishi4k?streamid=e7f9a38ccce9109f57a4f4e2e2218351&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="4K",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="4K",东方卫视4K11
+https://live.264788.xyz/channel/dongfangweishi4k?streamid=ac7357572df3296592eeaee3c55edac6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 #EXTINF:-1 group-title="4K",四川卫视4K
+https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="4K",山东卫视4K
+https://live.264788.xyz/channel/shandongweishi4k?streamid=89b04153333adc0894ea0c2a3527347d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="4K",江苏卫视4K
+https://live.264788.xyz/channel/jiangsuweishi4k?streamid=306fa7c5a3bb1b091331de3a638c01b0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="4K",浙江卫视4K
+https://live.264788.xyz/channel/zhejiangweishi4k?streamid=664bb2d3ef43cf06ccb52c01a226593d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="4K",浙江卫视4K+
 https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
