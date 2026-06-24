@@ -197,21 +197,21 @@ http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BV
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
 rtmp://221.4.216.91/live/332123-ztxw
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
-http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+rtmp://ai.unispc.com/live/nb-py-ztxw
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台2
 rtmp://media.atmsiot.com/live/ztxw
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台
 http://www.kaniptv.cn/ua3.php?etoken=RbbWqhCU4ljrR%2BXmuBWu7Fvh2QTDsGOek7jP3uIQKfgKByGOxbIcrI2b77PQBkgRa2v8xN4XMCRYGcv8pQLU3JDhMKWrf2kW5D98Icya5NdUjzcK4piEvwpRJNDKUihAAEKpm8%2F0bFy%2FMje6RUpo%2B6q9VX5JEzrPXlsklguKfiG0Wqugfndn5Qr3ffV1zp9pkvfwQp33e1JeElDURSdmc85M1A%2B6w%2FZhdtiy0%2FURLQAS6TdOQlBPET8boWXq7Z0uMunW5gCGJlTN6TLtY2D0isLpo3a68nSbGaAQO6mLL5qHQQOaMp%2BHS1JZ6eyRtYKF9wGnglbYkxmBwh6M3gX27A%3D%3D
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台1
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台1
 http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天亚洲.png",中天亚洲台+
 
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
-
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/tvbshd_iphone.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HDd
-https://test.946985.filegear-sg.me/proxy/aeeed2eb197331b1
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="东森亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",东森亚洲
 
 
