@@ -205,15 +205,19 @@ http://www.kaniptv.cn/ua3.php?etoken=RbbWqhCU4ljrR%2BXmuBWu7Fvh2QTDsGOek7jP3uIQK
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台1
 http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天亚洲.png",中天亚洲台+
-
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+#EXTINF:-1 tvg-name="TVBS " tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
+http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
 https://c958c7-ceb9ea-ea3a.kylintv.tv/live/tvbshd_iphone.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HDd
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-name="TVBS 新闻1" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD1
+http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="东森亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",东森亚洲
-
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 
 #EXTINF:-1 ,cctv1hd
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
