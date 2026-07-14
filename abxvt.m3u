@@ -371,6 +371,7 @@ http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 https://smt.1678520.xyz/163189/dsdy
 #EXTINF:-1 tvg-name="CHC家庭影院2" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院2
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 
