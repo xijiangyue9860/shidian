@@ -4,16 +4,15 @@
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台
-http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-
+http://l3.negative.video:50000/udp/233.50.202.35:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
 https://cdn6.cc.cd/163189/fhzw
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
+http://www.lvyjay.win:4022/udp/233.50.202.35:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台4
-http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xJmtleT0lMkElMkElMkElMkE=
+http://www.liangcl.top:8686/udp/233.50.202.35:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台5
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台6
@@ -25,22 +24,21 @@ https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台
-http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+http://l3.negative.video:50000/udp/233.50.202.36:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
 https://cdn6.cc.cd/163189/fhzx
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
-https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
+http://www.lvyjay.win:4022/udp/233.50.202.36:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台4
-http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yJmtleT0lMkElMkElMkElMkE=
+http://www.liangcl.top:8686/udp/233.50.202.36:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台5
-https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
+
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台6
 https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台7
 https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台8
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 
@@ -50,9 +48,9 @@ http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台2
 https://cdn6.cc.cd/163189/fhhk
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台1
-https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
-#EXTINF:-1 group-title="凤凰",凤凰卫视香港台3
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="凤凰",凤凰卫视香港台3
+
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 
@@ -65,18 +63,8 @@ http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="凤凰",重温经典
 #EXTINF:-1 ,香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://l3.negative.video:50000/udp/233.50.202.35:5140
-#EXTINF:-1 ,凤凰资讯
-http://l3.negative.video:50000/udp/233.50.202.36:5140
-#EXTINF:-1 ,凤凰中文
-http://www.liangcl.top:8686/udp/233.50.202.35:5140
-#EXTINF:-1 ,凤凰资讯
-http://www.liangcl.top:8686/udp/233.50.202.36:5140
-#EXTINF:-1 ,凤凰中文
-http://www.lvyjay.win:4022/udp/233.50.202.35:5140
-#EXTINF:-1 ,凤凰资讯
-http://www.lvyjay.win:4022/udp/233.50.202.36:5140
+
+
 #EXTINF:-1 ,凤凰中文
 http://www.negative.top:50000/udp/233.50.202.35:5140
 #EXTINF:-1 ,凤凰资讯
@@ -232,7 +220,7 @@ https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZ
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
-rtmp://221.4.216.91/live/332123-ztxw
+
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台2
@@ -242,9 +230,9 @@ http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台1
 
 #EXTINF:-1 tvg-name="中天综合台" tvg-logo="http://bxtv.3a.ink/logo/中天综合.png",中天综合台
-http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zMCZrZXk9JTJBJTJBJTJBJTJB
+
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
-http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+
 #EXTINF:-1 tvg-name="TVBS " tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS 新闻
@@ -252,7 +240,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS 亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
-http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MiZrZXk9JTJBJTJBJTJBJTJB
+
 #EXTINF:-1 tvg-name="东森亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",东森亚洲
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 
@@ -1125,32 +1113,7 @@ http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
 http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
 #EXTINF:-1 ,精選動漫台
 http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
-#EXTINF:-1 ,客家好劇-FastTV飛速看
-http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
-#EXTINF:-1 ,懷舊經典電影-FastTV飛速看
-http://4gtv.cnlive.club/channel/n424d08b7/index.m3u8?q=1782639885837
-#EXTINF:-1 ,精選華語電影-FastTV飛速看
-http://4gtv.cnlive.club/channel/750a2ada/index.m3u8?q=1782639885837
-#EXTINF:-1 ,國外電影精選-FastTV飛速看
-http://4gtv.cnlive.club/channel/32bc6076/index.m3u8?q=1782639885837
-#EXTINF:-1 ,日韓電影大賞-FastTV飛速看
-http://4gtv.cnlive.club/channel/n5541a0ca/index.m3u8?q=1782639885837
-#EXTINF:-1 ,台灣傳奇-FastTV飛速看
-http://4gtv.cnlive.club/channel/n496c6dde/index.m3u8?q=1782639885837
-#EXTINF:-1 ,精彩陸劇1台-FastTV飛速看
-http://4gtv.cnlive.club/channel/n7179beac/index.m3u8?q=1782639885837
-#EXTINF:-1 ,精彩陸劇2台-FastTV飛速看
-http://4gtv.cnlive.club/channel/n69c8194d/index.m3u8?q=1782639885837
-#EXTINF:-1 ,金光布袋戲-FastTV飛速看
-http://4gtv.cnlive.club/channel/n3000a7f1/index.m3u8?q=1782639885837
-#EXTINF:-1 ,哆啦A夢-FastTV飛速看
-http://4gtv.cnlive.club/channel/9fc6b5c/index.m3u8?q=1782639885837
-#EXTINF:-1 ,經典卡通-FastTV飛速看
-http://4gtv.cnlive.club/channel/53488299/index.m3u8?q=1782639885837
-#EXTINF:-1 ,經典迪士尼-FastTV飛速看
-http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
-#EXTINF:-1 ,東離劍遊紀-FastTV飛速看
-http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
+
 
 
 
