@@ -240,7 +240,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS 亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
-
+http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="东森亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",东森亚洲
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 
