@@ -222,7 +222,7 @@ http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
-
+http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台2
 
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台
