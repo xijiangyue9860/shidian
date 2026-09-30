@@ -221,7 +221,7 @@ http://iactive-clink.com:8081/live/111ztxw.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台+
-http://173.208.234.146/live/ctinews.m3u8
+
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="台湾",中天新聞台2
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="http://bxtv.3a.ink/logo/寰宇新聞.png",寰宇新聞台
@@ -837,7 +837,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 ,KRONE HIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 ,Radio Contact
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
 #EXTINF:-1 ,Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 ,Trace Urban HD
@@ -859,7 +859,7 @@ https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 ,凤凰中文
 
 #EXTINF:-1 ,CCTV1港澳版
-https://cdn6.cc.cd/163189/cctv1
+
 #EXTINF:-1 ,CCTV13
 https://10.fast.hidns.vip/163189/cctv13/
 #EXTINF:-1 ,TVB Plus(字幕)
