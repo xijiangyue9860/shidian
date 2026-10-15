@@ -49,8 +49,8 @@ http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台1
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
-#EXTINF:-1 group-title="凤凰",凤凰卫视香港台3
-
+#EXTINF:-1 group-title="凤凰",凤凰卫视美洲台
+http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=0926f63947af8af2
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视电影台
 
@@ -239,7 +239,7 @@ https://iptv.957.de5.net/play?streamid=b18xN2MEVNxBjwVQz7DDkSwV0MhSb45WOVP571DOn
 #EXTINF:-1 tvg-name="TVBS 亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
-
+http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=90f77fd7c6e8e0c4
 #EXTINF:-1 tvg-name="东森亚洲" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",东森亚洲
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 ,TVBS NEWS
