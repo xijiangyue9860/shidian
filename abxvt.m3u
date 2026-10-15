@@ -112,28 +112,27 @@ https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",北京卫视4k
 
-#EXTINF:-1 group-title="4K",北京卫视4k+
-
+#EXTINF:-1 group-title="4K",江苏卫视4k
+http://198.204.228.26/live/szws4k.m3u8
 
 #EXTINF:-1 group-title="4K",河北 4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="4K",深圳 4k
-
+#EXTINF:-1 group-title="4K",山东卫视 4k
+http://198.204.228.26/live/sdws4k.m3u8
 #EXTINF:-1 group-title="4K",广东 4k
-
+http://198.204.228.26/live/gdws4k.m3u8
 #EXTINF:-1 group-title="4K",cctv 4k
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="4K",CCTV 4k1
 http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
-#EXTINF:-1 group-title="4K",CCTV 4k2
-
+#EXTINF:-1 group-title="4K",四川卫视 4k
+http://198.204.228.26/live/scws4k.m3u8
 #EXTINF:-1 group-title="4K",华数 4k
 
 #EXTINF:-1 group-title="4K",爱上 4k
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K
-
 
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K",CCTV16 4K+
 
@@ -147,24 +146,20 @@ http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 
 #EXTINF:-1 group-title="4K",湖南卫视4K
 
-
 #EXTINF:-1 group-title="4K",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="4K",东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="4K",东方卫视4K11
 
-
 #EXTINF:-1 group-title="4K",四川卫视4K
-
 
 #EXTINF:-1 group-title="4K",山东卫视4K
 
-
 #EXTINF:-1 group-title="4K",江苏卫视4K
-
+http://198.204.228.26/live/jsws4k.m3u8
 #EXTINF:-1 group-title="4K",浙江卫视4K
-
+http://198.204.228.26/live/zjws4k.m3u8
 
 #EXTINF:-1 group-title="4K",浙江卫视4K+
 https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -177,7 +172,6 @@ https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png" group-title="香港",VIUTV
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="香港",翡翠台
-
 
 #EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="香港",鳳凰衛視中文台
 
