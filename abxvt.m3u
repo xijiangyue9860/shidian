@@ -8,9 +8,9 @@ http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台1
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台2
-
+http://31.43.191.125:8080/restream/restream/34629
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台3
-
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台4
 
 #EXTINF:-1 group-title="凤凰",凤凰卫视中文台5
@@ -27,19 +27,19 @@ http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台1
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台2
-
+http://31.43.191.125:8080/restream/restream/34641
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台3
-
+http://110.178.52.89:8989/udp/239.1.1.127:8127
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台4
-
+http://yaofuming.top:8188/udp/239.94.2.49:5140
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台5
-
+http://50.7.233.114:8278/phoenixinfo_hd/playlist.m3u8
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台6
-
+http://www.tk1986.top:8889/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台7
-
+http://jyb7928.host:8066/udp/239.1.1.127:8127
 #EXTINF:-1 group-title="凤凰",凤凰卫视资讯台8
-
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="凤凰",凤凰卫视香港台2
@@ -206,7 +206,7 @@ http://dev.sugonedu.com:8081/live/999ztxw.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS " tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS
-https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+http://50.7.233.114:8278/tvbs/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS 新闻
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="http://bxtv.3a.ink/logo/ctinews.png",TVBS HD
